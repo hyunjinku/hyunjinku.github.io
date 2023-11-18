@@ -1,31 +1,24 @@
-baseURL = 'https://juicebar-demo.add1.dev/'
+baseURL = 'https://hyunjinku.github.io/'
 languageCode = 'en'
-# languageCode = 'zh-CN'
 theme = "JuiceBar"
-title = "JuiceBar"
+title = "hyunjin's blog"
 
 [params]
-author = "hotjuicew"
-description = "My site description"
+author = "hyunjin"
+description = "hyunjin's blog"
 authorImage = "/images/profile.jpg"
 paginate = 5
 
-Title = "JuiceBar"
-content = "I'm JuiceBar, nice to meet you(ˊ˘ˋ*)♡"
+Title = "hyunjin's blog"
+content = "I'm hyunjin, nice to meet youʕ•ᴥ•ʔ♡"
 imageUrl = "/images/avatar.jpg"
 # To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
 [[params.social]]
 name = "Github"
-url = "https://github.com/hotjuicew"
-[[params.social]]
-name = "telegram"
-url = "https://t.me/Hotjuice"
-[[params.social]]
-name = "twitter"
-url = "https://twitter.com/hotjuicee"
+url = "https://github.com/hyunjinku"
 [[params.social]]
 name = "email"
-url = "mailto:imjiaying@outlook.com"
+url = "mailto:bona00ku@gmail.com"
 
 [taxonomies]
 category = "categories"
